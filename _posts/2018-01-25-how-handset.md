@@ -1,3 +1,12 @@
+---
+layout: post
+title: 手控板显示屏交互逻辑
+date: 2018-01-25 13:32:20 +0300
+description: You’ll find this post in your `_posts` directory. Go ahead and edit it and re-build the site to see your changes. # Add post description (optional)
+img: handset.png # Add image post (optional)
+tags: [handset]
+---
+
 # 手控板显示屏交互逻辑
 > 1. 手控板显示屏上所有显示的信息均为英文或数字，不考虑汉字。
 > 2. 显示屏尺寸为128×64
@@ -102,7 +111,7 @@
 
 **次要信息区域**
 
-* 切换成功后显示“Imperial/Metric”，3s后恢复为待机时的显示（2.2）	
+* 切换成功后显示“Imperial/Metric”，3s后恢复为待机时的显示（2.2）
 
 
 ### 2.7 设置&取消高度上下限
